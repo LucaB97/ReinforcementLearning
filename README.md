@@ -2,7 +2,7 @@
 
 This repository contains the project for the Reinforcement Learning course. 
 
-• "Project.ipynb" contains most of the code developed for this project, and some brief explanations or comments about it.
+• "Project.ipynb" contains most of the code developed for this project, and some brief explanations or comments about it.\n
 • "Quentin.py" contains the implementation of the game the project is based on.
 • "Quentin.pdf" is a file with the game instructions.
 • "Quentin-Agents-Play.py" can be used to produce a game between two agents.
