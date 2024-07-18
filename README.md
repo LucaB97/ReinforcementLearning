@@ -17,4 +17,4 @@ Extra:
 
 • "Play_Quentin", together with "Quentin_DQN" allow the user to play the game.
 
-• The files "quentin_sz7_ep25_black" and "quentin_sz7_ep25_black" were produced using the "Project.ipynb" file
+• The files "quentin_sz7_ep25_black" and "quentin_sz7_ep25_black" are two agents, produced using the "Project.ipynb" file.
